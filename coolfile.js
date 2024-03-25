@@ -1,8 +1,8 @@
 // program to find Armstrong number between intervals
 
 // take an input
-const lowNumber = parseInt(prompt('Enter a positive low integer: '));
-const highNumber = parseInt(prompt('Enter a positive high integer: '));
+const lowNum = parseInt(prompt('Enter a positive low integer: '));
+const highNum = parseInt(prompt('Enter a positive high integer: '));
 
 console.log ('Armstrong Numbers:');
 
